@@ -1,2 +1,2 @@
 # Training-
-for more exercices
+for more exercice
